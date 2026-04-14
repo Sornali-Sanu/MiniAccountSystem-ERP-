@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MiniAccountSystem.Domain.Entities
+{
+    public class JournalDetail
+    {
+        public int Id { get; set; }
+        public int JournalEntryId { get; set; }
+        public JournalEntry JournalEntry { get; set; }
+        public int AccountId { get; set; }
+        public Account Account { get; set; }
+        public decimal Debit { get; set; }
+        public decimal Credit { get; set; }
+    }
+}

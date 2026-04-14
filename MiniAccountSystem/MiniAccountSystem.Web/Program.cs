@@ -1,7 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using MiniAccountSystem.Infrastructure.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+//Add database:
+
+builder.Services.AddDbContext<ApplicationDbContext>(op => op.UseSqlServer(builder.Configuration.GetConnectionString("con")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+
 
 var app = builder.Build();
 

@@ -1,0 +1,15 @@
+C:\Users\ASTROID\Desktop\AccountSystem\MiniAccountSystem\MiniAccountSystem.Domain\bin\Debug\net8.0\MiniAccountSystem.Domain.deps.json
+C:\Users\ASTROID\Desktop\AccountSystem\MiniAccountSystem\MiniAccountSystem.Domain\bin\Debug\net8.0\MiniAccountSystem.Domain.runtimeconfig.json
+C:\Users\ASTROID\Desktop\AccountSystem\MiniAccountSystem\MiniAccountSystem.Domain\bin\Debug\net8.0\MiniAccountSystem.Domain.dll
+C:\Users\ASTROID\Desktop\AccountSystem\MiniAccountSystem\MiniAccountSystem.Domain\bin\Debug\net8.0\MiniAccountSystem.Domain.pdb
+C:\Users\ASTROID\Desktop\AccountSystem\MiniAccountSystem\MiniAccountSystem.Domain\obj\Debug\net8.0\MiniAccountSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\ASTROID\Desktop\AccountSystem\MiniAccountSystem\MiniAccountSystem.Domain\obj\Debug\net8.0\MiniAccountSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASTROID\Desktop\AccountSystem\MiniAccountSystem\MiniAccountSystem.Domain\obj\Debug\net8.0\MiniAccountSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\ASTROID\Desktop\AccountSystem\MiniAccountSystem\MiniAccountSystem.Domain\obj\Debug\net8.0\MiniAccountSystem.Domain.AssemblyInfo.cs
+C:\Users\ASTROID\Desktop\AccountSystem\MiniAccountSystem\MiniAccountSystem.Domain\obj\Debug\net8.0\MiniAccountSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASTROID\Desktop\AccountSystem\MiniAccountSystem\MiniAccountSystem.Domain\obj\Debug\net8.0\MiniAccountSystem.Domain.sourcelink.json
+C:\Users\ASTROID\Desktop\AccountSystem\MiniAccountSystem\MiniAccountSystem.Domain\obj\Debug\net8.0\MiniAccountSystem.Domain.dll
+C:\Users\ASTROID\Desktop\AccountSystem\MiniAccountSystem\MiniAccountSystem.Domain\obj\Debug\net8.0\refint\MiniAccountSystem.Domain.dll
+C:\Users\ASTROID\Desktop\AccountSystem\MiniAccountSystem\MiniAccountSystem.Domain\obj\Debug\net8.0\MiniAccountSystem.Domain.pdb
+C:\Users\ASTROID\Desktop\AccountSystem\MiniAccountSystem\MiniAccountSystem.Domain\obj\Debug\net8.0\MiniAccountSystem.Domain.genruntimeconfig.cache
+C:\Users\ASTROID\Desktop\AccountSystem\MiniAccountSystem\MiniAccountSystem.Domain\obj\Debug\net8.0\ref\MiniAccountSystem.Domain.dll

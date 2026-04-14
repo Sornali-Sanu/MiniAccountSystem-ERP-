@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EA6A468-5F76-4E30-A6B6-F78C5DCB2C28}|MiniAccountSystem.Domain\\MiniAccountSystem.Domain.csproj|c:\\users\\astroid\\desktop\\accountsystem\\miniaccountsystem\\miniaccountsystem.domain\\entities\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EA6A468-5F76-4E30-A6B6-F78C5DCB2C28}|MiniAccountSystem.Domain\\MiniAccountSystem.Domain.csproj|solutionrelative:miniaccountsystem.domain\\entities\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DD9D57F-A183-41C6-B371-4A1B12F0630F}|MiniAccountSystem.Web\\MiniAccountSystem.Web.csproj|c:\\users\\astroid\\desktop\\accountsystem\\miniaccountsystem\\miniaccountsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD9D57F-A183-41C6-B371-4A1B12F0630F}|MiniAccountSystem.Web\\MiniAccountSystem.Web.csproj|solutionrelative:miniaccountsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C605C55D-A796-42AA-BB32-CE1656F9F757}|MiniAccountSystem.Infrastructure\\MiniAccountSystem.Infrastructure.csproj|c:\\users\\astroid\\desktop\\accountsystem\\miniaccountsystem\\miniaccountsystem.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C605C55D-A796-42AA-BB32-CE1656F9F757}|MiniAccountSystem.Infrastructure\\MiniAccountSystem.Infrastructure.csproj|solutionrelative:miniaccountsystem.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C605C55D-A796-42AA-BB32-CE1656F9F757}|MiniAccountSystem.Infrastructure\\MiniAccountSystem.Infrastructure.csproj|c:\\users\\astroid\\desktop\\accountsystem\\miniaccountsystem\\miniaccountsystem.infrastructure\\miniaccountsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C605C55D-A796-42AA-BB32-CE1656F9F757}|MiniAccountSystem.Infrastructure\\MiniAccountSystem.Infrastructure.csproj|solutionrelative:miniaccountsystem.infrastructure\\miniaccountsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA6A468-5F76-4E30-A6B6-F78C5DCB2C28}|MiniAccountSystem.Domain\\MiniAccountSystem.Domain.csproj|c:\\users\\astroid\\desktop\\accountsystem\\miniaccountsystem\\miniaccountsystem.domain\\entities\\journaldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA6A468-5F76-4E30-A6B6-F78C5DCB2C28}|MiniAccountSystem.Domain\\MiniAccountSystem.Domain.csproj|solutionrelative:miniaccountsystem.domain\\entities\\journaldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA6A468-5F76-4E30-A6B6-F78C5DCB2C28}|MiniAccountSystem.Domain\\MiniAccountSystem.Domain.csproj|c:\\users\\astroid\\desktop\\accountsystem\\miniaccountsystem\\miniaccountsystem.domain\\entities\\journalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA6A468-5F76-4E30-A6B6-F78C5DCB2C28}|MiniAccountSystem.Domain\\MiniAccountSystem.Domain.csproj|solutionrelative:miniaccountsystem.domain\\entities\\journalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA6A468-5F76-4E30-A6B6-F78C5DCB2C28}|MiniAccountSystem.Domain\\MiniAccountSystem.Domain.csproj|c:\\users\\astroid\\desktop\\accountsystem\\miniaccountsystem\\miniaccountsystem.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA6A468-5F76-4E30-A6B6-F78C5DCB2C28}|MiniAccountSystem.Domain\\MiniAccountSystem.Domain.csproj|solutionrelative:miniaccountsystem.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA6A468-5F76-4E30-A6B6-F78C5DCB2C28}|MiniAccountSystem.Domain\\MiniAccountSystem.Domain.csproj|c:\\users\\astroid\\desktop\\accountsystem\\miniaccountsystem\\miniaccountsystem.domain\\entities\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA6A468-5F76-4E30-A6B6-F78C5DCB2C28}|MiniAccountSystem.Domain\\MiniAccountSystem.Domain.csproj|solutionrelative:miniaccountsystem.domain\\entities\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6ABFFBF-3318-485E-A843-E563F289F496}|MiniAccountSystem.Application\\MiniAccountSystem.Application.csproj|c:\\users\\astroid\\desktop\\accountsystem\\miniaccountsystem\\miniaccountsystem.application\\miniaccountsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -43,20 +63,98 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Web\\Program.cs",
+              "RelativeDocumentMoniker": "MiniAccountSystem.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Web\\Program.cs",
+              "RelativeToolTip": "MiniAccountSystem.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T14:26:50.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MiniAccountSystem.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MiniAccountSystem.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T14:05:10.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JournalDetail.cs",
+              "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Domain\\Entities\\JournalDetail.cs",
+              "RelativeDocumentMoniker": "MiniAccountSystem.Domain\\Entities\\JournalDetail.cs",
+              "ToolTip": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Domain\\Entities\\JournalDetail.cs",
+              "RelativeToolTip": "MiniAccountSystem.Domain\\Entities\\JournalDetail.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T14:01:18.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiniAccountSystem.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Infrastructure\\MiniAccountSystem.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MiniAccountSystem.Infrastructure\\MiniAccountSystem.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Infrastructure\\MiniAccountSystem.Infrastructure.csproj",
+              "RelativeToolTip": "MiniAccountSystem.Infrastructure\\MiniAccountSystem.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-12T15:15:06.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JournalEntry.cs",
+              "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Domain\\Entities\\JournalEntry.cs",
+              "RelativeDocumentMoniker": "MiniAccountSystem.Domain\\Entities\\JournalEntry.cs",
+              "ToolTip": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Domain\\Entities\\JournalEntry.cs",
+              "RelativeToolTip": "MiniAccountSystem.Domain\\Entities\\JournalEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T13:59:10.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Domain\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "MiniAccountSystem.Domain\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Domain\\Entities\\Account.cs",
+              "RelativeToolTip": "MiniAccountSystem.Domain\\Entities\\Account.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T13:47:37.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AccountType.cs",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Domain\\Entities\\AccountType.cs",
               "RelativeDocumentMoniker": "MiniAccountSystem.Domain\\Entities\\AccountType.cs",
               "ToolTip": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Domain\\Entities\\AccountType.cs",
               "RelativeToolTip": "MiniAccountSystem.Domain\\Entities\\AccountType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-12T15:42:01.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MiniAccountSystem.Application",
+              "DocumentIndex": 7,
+              "Title": "MiniAccountSystem.Application.csproj",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Application\\MiniAccountSystem.Application.csproj",
               "RelativeDocumentMoniker": "MiniAccountSystem.Application\\MiniAccountSystem.Application.csproj",
               "ToolTip": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Application\\MiniAccountSystem.Application.csproj",
@@ -68,21 +166,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MiniAccountSystem.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Infrastructure\\MiniAccountSystem.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "MiniAccountSystem.Infrastructure\\MiniAccountSystem.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Infrastructure\\MiniAccountSystem.Infrastructure.csproj",
-              "RelativeToolTip": "MiniAccountSystem.Infrastructure\\MiniAccountSystem.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-12T15:15:06.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MiniAccountSystem.Domain",
+              "DocumentIndex": 8,
+              "Title": "MiniAccountSystem.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Domain\\MiniAccountSystem.Domain.csproj",
               "RelativeDocumentMoniker": "MiniAccountSystem.Domain\\MiniAccountSystem.Domain.csproj",
               "ToolTip": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Domain\\MiniAccountSystem.Domain.csproj",
@@ -94,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "MiniAccountSystem.Infrastructure\\Class1.cs",
@@ -107,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Application\\Class1.cs",
               "RelativeDocumentMoniker": "MiniAccountSystem.Application\\Class1.cs",
@@ -120,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\AccountSystem\\MiniAccountSystem\\MiniAccountSystem.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "MiniAccountSystem.Domain\\Class1.cs",
