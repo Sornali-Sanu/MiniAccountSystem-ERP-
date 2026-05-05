@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MiniAccountSystem.Infrastructure.Interfaces
+namespace MiniAccountSystem.Application.Interfaces
 {
     public interface IAccountRepository
     {

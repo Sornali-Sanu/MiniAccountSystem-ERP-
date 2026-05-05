@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using MiniAccountSystem.Domain.Entities;
 using MiniAccountSystem.Infrastructure.Data;
-using MiniAccountSystem.Infrastructure.Interfaces;
+using MiniAccountSystem.Application.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -47,9 +47,10 @@ namespace MiniAccountSystem.Infrastructure.Repositories
             return await _db.Accounts.Include(a => a.AccountType).ToListAsync();
         }
 
-        public Task UpdateAccount(Account account)
+        public async Task UpdateAccount(Account account)
         {
-            throw new NotImplementedException();
+            _db.Accounts.Update(account);
+            await _db.SaveChangesAsync();
         }
     }
 }

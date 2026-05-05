@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
+using MiniAccountSystem.Application.Interfaces;
+using MiniAccountSystem.Application.Services;
 using MiniAccountSystem.Infrastructure.Data;
+using MiniAccountSystem.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 //Add database:
@@ -9,7 +12,9 @@ builder.Services.AddDbContext<ApplicationDbContext>(op => op.UseSqlServer(builde
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-
+//DI:
+builder.Services.AddScoped<IAccountRepository, AccountRepository>();
+builder.Services.AddScoped<IAccountService, AccountService>();
 
 var app = builder.Build();
 
