@@ -14,5 +14,7 @@ namespace MiniAccountSystem.Application.Interfaces
         Task CreateAccountAsync(Account account);
         Task UpdateAccountAsync(Account account);
         Task DeleteAccountAsync(int id);
+        Task<IEnumerable<AccountType>>GetAccountTypesAsync();
+        Task<IEnumerable<Account>> GetParentAccountsAsync();
     }
 }

@@ -37,7 +37,17 @@ namespace MiniAccountSystem.Application.Services
             return await _repo.GetAccountById(id);
         }
 
+        public Task<IEnumerable<AccountType>> GetAccountTypesAsync()
+        {
+            throw new NotImplementedException();
+        }
+
         public async Task<IEnumerable<Account>> GetAllAccountsAsync()
+        {
+            return await _repo.GetAllAccount();
+        }
+
+        public async Task<IEnumerable<Account>> GetParentAccountsAsync()
         {
             return await _repo.GetAllAccount();
         }

@@ -1,0 +1,37 @@
+﻿@model MiniAccountSystem.Web.ViewModels.AccountVM
+
+<h2>Create Account</h2>
+
+<form asp-action="Create" method="post">
+
+    <div class="mb-3">
+        <label asp-for="AccountCode"></label>
+        <input asp-for="AccountCode" class="form-control" />
+        <span asp-validation-for="AccountCode" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="AccountName"></label>
+        <input asp-for="AccountName" class="form-control" />
+        <span asp-validation-for="AccountName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="ParentAccountId"></label>
+        <select asp-for="ParentAccountId"
+                asp-items="Model.ParentAccounts"
+                class="form-control">
+            <option value="">-- Select Parent --</option>
+        </select>
+    </div>
+
+    <div class="form-check">
+        <input asp-for="IsActive" class="form-check-input" />
+        <label asp-for="IsActive"></label>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">
+        Save
+    </button>
+
+</form>
